@@ -1,0 +1,16 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.btn1{
+    font-size: 100px;
+    color: silver;
+    background-color: black;
+    border: 5px silver solid;
+
+}
+.btn2{
+    font-size: 100px;
+    color: black;
+    background-color: yellow;
+    border: 5px silver solid;
+}
